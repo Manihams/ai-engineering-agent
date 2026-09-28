@@ -1,6 +1,22 @@
 # Java / Maven
 target/
 *.class
+*.log
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# Java tools
+*.ctxt
+.mtj.tmp/
+
+# JVM crash logs
+hs_err_pid*
+replay_pid*
 
 # macOS
 .DS_Store
